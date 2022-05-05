@@ -21,7 +21,7 @@ price new: EUR 1050 [Skroutz](https://www.skroutz.gr/s/23130126/Apple-iPhone-11-
 ### price: **EUR 125**
 I am selling it because I bought an ipad. It has less than a year of use. I can forward the Amazon receipt.
 
-price new: EUR 250 [new on Amazon.DE](https://www.amazon.de/dp/B08T76SY2J/ref=pe_27091401_487027711_TE_SCE_dp_1?th=1)
+price new: EUR 250 [Amazon](https://www.amazon.de/dp/B08T76SY2J/ref=pe_27091401_487027711_TE_SCE_dp_1?th=1)
 
 
 
