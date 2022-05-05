@@ -7,10 +7,10 @@
   - USB-C to lightning charging cable
   - Apple sillicone red case
 
-<img src="https://asd.casa/images/iphone1.jpeg" width="300px"</img>
-<img src="https://asd.casa/images/iphone2.jpeg" width="300px"</img>
-<img src="https://asd.casa/images/iphone3.png" width="300px"</img>
-<img src="https://asd.casa/images/iphone4.png" width="300px"</img>
+<img src="https://asd.casa/images/iphone1.jpeg" width="300px">
+<img src="https://asd.casa/images/iphone2.jpeg" width="300px">
+<img src="https://asd.casa/images/iphone3.png" width="300px">
+<img src="https://asd.casa/images/iphone4.png" width="300px">
 
 # **portable monitor 15,6” full-HD**
 ## EUR 125
@@ -22,8 +22,8 @@
   - USB-C cable & charger
   - HDMI cable
 
-<img src="https://asd.casa/images/screen1.jpeg" width="300px"</img>
-<img src="https://asd.casa/images/screen2.jpeg" width="300px"</img>
+<img src="https://asd.casa/images/screen1.jpeg" width="300px">
+<img src="https://asd.casa/images/screen2.jpeg" width="300px">
 
 # Notes
 - Pickup in Psyrí or Kypseli. 
