@@ -8,7 +8,7 @@ I am selling it because I bought a 12. It has 14 months of use. I can forward Ap
 
 price new: EUR 1050 [Skroutz](https://www.skroutz.gr/s/23130126/Apple-iPhone-11-Pro-4GB-512GB-Χρυσό.html?from=sku_color_variations)
 
-my price: **EUR 575**
+### my price: **EUR 575**
 
 [](images/iphone1.jpeg)
 [](images/iphone2.jpeg)
@@ -20,7 +20,7 @@ I am selling it because I bought an ipad. It has less than a year of use. I can 
 
 price new: EUR 250 [new on Amazon.DE](https://www.amazon.de/dp/B08T76SY2J/ref=pe_27091401_487027711_TE_SCE_dp_1?th=1)
 
-my price: **EUR 125**
+### my price: **EUR 125**
 
 [](images/screen.jpeg)
 [](images/screen.jpeg)
