@@ -12,10 +12,10 @@ price new: EUR 1050
 
 my price: **EUR 575**
 
-(images/iphone1.jpeg)
-(images/iphone2.jpeg)
-(images/iphone3.png)
-(images/iphone4.png)
+[](images/iphone1.jpeg)
+[](images/iphone2.jpeg)
+[](images/iphone3.png)
+[](images/iphone4.png)
 
 ## portable monitor 15,6” full-HD
 I am selling it because I bought an ipad. It has less than a year of use. I can forward the Amazon receipt.
@@ -25,5 +25,5 @@ price new: EUR 250
 
 my price: **EUR 125**
 
-(images/screen.jpeg)
-(images/screen.jpeg)
+[](images/screen.jpeg)
+[](images/screen.jpeg)
