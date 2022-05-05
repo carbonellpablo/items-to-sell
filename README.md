@@ -1,5 +1,5 @@
 # iPhone 11 Pro 512GB Rose Gold
-## price: **EUR 575**
+## **EUR 575**
 - I am selling it because I bought a 12. It has 14 months of use. 
 - I can forward Apple receipt.
 - price new: EUR 1050 [Skroutz](https://www.skroutz.gr/s/23130126/Apple-iPhone-11-Pro-4GB-512GB-Χρυσό.html?from=sku_color_variations)
@@ -13,7 +13,7 @@
 [](images/iphone4.png)
 
 # portable monitor 15,6” full-HD
-## price: **EUR 125**
+## **EUR 125**
 - I am selling it because I bought an ipad. 
 - It has 5 months of use. 
 - I can forward the Amazon receipt.
@@ -25,7 +25,7 @@
 [](images/screen.jpeg)
 [](images/screen.jpeg)
 
-## Notes
+# Notes
 - Pickup in Psyrí or Kypseli. 
 - Both items work perfectly.
 - 10% discount if you take both items
