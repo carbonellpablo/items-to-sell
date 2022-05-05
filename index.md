@@ -1,3 +1,9 @@
+# Items for sale
+- Pickup in Psyrí or Kypseli. 
+- Both items work perfectly.
+- 10% discount if you take both items
+- Whatsapp: +306981760642
+
 # **iPhone 11 Pro 512GB Rose Gold**
 ## EUR 575
 - I am selling it because I bought a 12. It has 14 months of use. 
@@ -25,8 +31,4 @@
 <img src="https://asd.casa/images/screen1.jpeg" width="300px">
 <img src="https://asd.casa/images/screen2.jpeg" width="300px">
 
-# Notes
-- Pickup in Psyrí or Kypseli. 
-- Both items work perfectly.
-- 10% discount if you take both items
-- Whatsapp: +306981760642
+
