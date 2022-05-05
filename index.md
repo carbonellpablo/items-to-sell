@@ -7,10 +7,10 @@
   - USB-C to lightning charging cable
   - Apple sillicone red case
 
-![1](images/iphone1.jpeg)
-![2](images/iphone2.jpeg)
-![3](images/iphone3.png)
-![4](images/iphone4.png)
+[[images/iphone1.jpeg|width=300px]]
+[[images/iphone2.jpeg|width=300px]]
+[[images/iphone3.png|width=300px]]
+[[images/iphone4.png|width=300px]]
 
 # portable monitor 15,6” full-HD
 ## **EUR 125**
@@ -22,8 +22,8 @@
   - USB-C cable & charger
   - HDMI cable
 
-![1](images/screen.jpeg)
-![2](images/screen.jpeg)
+[[images/screen1.jpeg|width=300px]]
+[[images/screen2.jpeg|width=300px]]
 
 # Notes
 - Pickup in Psyrí or Kypseli. 
